@@ -1,0 +1,12 @@
+   .container {
+       text-align: center;
+       margin: auto;
+       width: 30%;
+       border: 15px solid green;
+       padding-top: 50px;
+       background-color: gray;
+   }
+   
+   body {
+       margin: 100px;
+   }
